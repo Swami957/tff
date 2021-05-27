@@ -1,0 +1,9 @@
+variable "access_key" {
+  default = "AKIAYSVTI2L7M6HYEN6F"
+  }
+variable "secret_key" {
+  default = "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"
+  }
+variable "region" {
+  default = "us-east-1"
+  }
